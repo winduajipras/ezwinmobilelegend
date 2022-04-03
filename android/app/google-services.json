@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460745981442",
+    "project_id": "ezwinmobilelegend",
+    "storage_bucket": "ezwinmobilelegend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460745981442:android:dba940511599f12905b11b",
+        "android_client_info": {
+          "package_name": "com.example.ezwinmobilelegend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460745981442-ep2pnmks8q9crn1rk2ohuusslb0c264k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALHHW5arXFU5MptHTu1n3h8XH4wVGayWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460745981442-ep2pnmks8q9crn1rk2ohuusslb0c264k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
